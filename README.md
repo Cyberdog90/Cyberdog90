@@ -1,22 +1,9 @@
-<!--
-**Cyberdog90/Cyberdog90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,octave,java,kotlin,idea,ps,blender,unity,selenium,wordpress,md,regex&theme=dark&perline=5)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberdog90&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdog90&layout=compact&count_private=true&theme=Gradient" />
-</a>
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Cyberdog90&show_icons=true&count_private=true&theme=Gradient" />
-</a>
--->
+## Competitive Programming
+[![Rating](https://badgen.org/img/atcoder/Cyberdog90/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/Cyberdog90?contestType=algo)
+[![Rating(Heuristic)](https://badgen.org/img/atcoder/Cyberdog90/rating/heuristic?style=for-the-badge)](https://atcoder.jp/users/Cyberdog90?contestType=heuristic)
